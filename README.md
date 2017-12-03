@@ -1,5 +1,14 @@
 # Table of Contents
 * Installation of debian
+* set clock
+* User settings and passwords
+* Disk partitioning
+* Install the grub boot loader 
+* Configure network
+* apache configuration
+* NTP server
+* Firewall installation
+* Ssh Server
 
 
 # Installation of Debian
