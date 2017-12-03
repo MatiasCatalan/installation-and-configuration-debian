@@ -124,6 +124,15 @@ the configuration file is called:
 ```
 apache2.conf
 ```
+restart apache2:
+```
+# /etc/init.d/apache2 restart
+```
+start apache2:
+```
+# systemctl start apache2
+```
+
 **Warning: Make a backup, if you make any changes to this file, because, if apache detects any failure, it will not start.**
 
 ## NTP server
